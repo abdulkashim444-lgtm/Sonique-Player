@@ -1,0 +1,6 @@
+{
+  "name": "Sonique Player",
+  "description": "A highly-polished dynamic music player with a built-in real-time synthesizer audio loop engine, synchronized Apple-style scrollable lyrics, and interactive high-performance Web Audio canvas visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
